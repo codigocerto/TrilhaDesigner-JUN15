@@ -17,6 +17,22 @@ Primordial: Utilizar as cores da paleta da **Codigo Certo Coders:**
 - **#e53939** (vermelho)
 - **#ffffff** (branco)
 
+### Exemplo de Estrutura Detalhada: 
+- **1. Cabeçalho (Header)**
+- Logo: Coloque o logotipo da comunidade no canto superior esquerdo.
+- **2. Seção de Introdução (Hero Section):**
+- Imagem de Fundo: Uma imagem inspiradora relacionada à programação e tecnologia.
+- Título: "Bem-vindo à Código Certo Coders"
+- Subtítulo: "Junte-se à nossa comunidade de desenvolvedores apaixonados."
+- Botão de CTA (Call to Action): "Participe Agora"
+- **3. Seção de Contato:**
+- Título: "Entre em Contato"
+- Formulário de Contato: Campos para nome, email e mensagem.
+- Informações de Contato: Email, redes sociais, etc.
+- **4. Rodapé (Footer):**
+- Redes Sociais: Ícones para WhatsApp, Discord, LinkedIn, etc.
+- Créditos: "© 2024 Código Certo Coders. Todos os direitos reservados."
+
 ### Apreciações: 🎉
 - **Feedbacks visuais para o usuário.**
 - **Design Responsivo e Adaptável.**
@@ -37,7 +53,7 @@ Primordial: Utilizar as cores da paleta da **Codigo Certo Coders:**
 - Entregas padrão ou cópias de outros projetos. Buscamos originalidade e autenticidade em cada contribuição.
 
 ### Prazo ⏳
-A conclusão da trilha inicial é um requisito obrigatório para avançar para a trilha final. Caso a trilha inicial não seja concluída dentro do prazo estabelecido, o candidato estará impossibilitado de prosseguir para trilha final.
+A data máxima para entrega das trilhas foi removida, permitindo que as pessoas entreguem conforme sua disponibilidade. No entanto, ainda é necessário concluir a trilha com sucesso para ser inserido em uma equipe.
 
 ### Instruções de Entrega: 📬
 Após finalizar o projeto, Após finalizar o projeto, hospede-o no Figma e preencha o [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):  
