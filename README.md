@@ -17,19 +17,19 @@ Primordial: Utilizar as cores da paleta da **Codigo Certo Coders:**
 - **#e53939** (vermelho)
 - **#ffffff** (branco)
 
-### Exemplo de Estrutura Detalhada: 
-- ## **1. Cabeçalho (Header)**
+### Exemplo de Estrutura Detalhada: 🛠️
+## **1. Cabeçalho (Header)**
 - Logo: Coloque o logotipo da comunidade no canto superior esquerdo.
-- ## **2. Seção de Introdução (Hero Section):**
+## **2. Seção de Introdução (Hero Section):**
 - Imagem de Fundo: Uma imagem inspiradora relacionada à programação e tecnologia.
 - Título: "Bem-vindo à Código Certo Coders"
 - Subtítulo: "Junte-se à nossa comunidade de desenvolvedores apaixonados."
 - Botão de CTA (Call to Action): "Participe Agora"
-- ## **3. Seção de Contato:**
+## **3. Seção de Contato:**
 - Título: "Entre em Contato"
 - Formulário de Contato: Campos para nome, email e mensagem.
 - Informações de Contato: Email, redes sociais, etc.
-- ## **4. Rodapé (Footer):**
+## **4. Rodapé (Footer):**
 - Redes Sociais: Ícones para WhatsApp, Discord, LinkedIn, etc.
 - Créditos: "© 2024 Código Certo Coders. Todos os direitos reservados."
 
