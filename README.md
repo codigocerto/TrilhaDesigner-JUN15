@@ -1,7 +1,7 @@
 ![Código Certo Coders](https://utfs.io/f/3b2340e8-5523-4aca-a549-0688fd07450e-j4edu.jfif)
 
 # 📚 Trilha Inicial UX/UI Design Jr
-Este projeto tem como objetivo desenvolver a interface de usuário (UI) e a experiência do usuário (UX) para uma plataforma de streaming focada em oferecer cursos online e conteúdos educacionais diversos para estudantes e profissionais.
+Este projeto tem como objetivo desenvolver a interface de usuário (UI) e a experiência do usuário (UX) de uma página inicial para a comunidade **Codigo Certo Coders**.
 
 ## Ferramenta de Design Utilizada
 - **Figma:** Plataforma de design colaborativo baseada em nuvem, ideal para prototipagem de interfaces de usuário e design de experiência do usuário (UX/UI).
@@ -37,13 +37,7 @@ Primordial: Utilizar as cores da paleta da **Codigo Certo Coders:**
 - Entregas padrão ou cópias de outros projetos. Buscamos originalidade e autenticidade em cada contribuição.
 
 ### Prazo ⏳
-Os candidatos devem completar a trilha em no máximo em 2 semanas, começando a contar a partir de 15/06.
-
-A conclusão da trilha inicial é um requisito obrigatório para avançar para a trilha 
-final. Caso a trilha inicial não seja concluída dentro do prazo estabelecido, o 
-candidato estará impossibilitado de prosseguir para trilha final.
-
-**Data máxima para entrega: 29/06**
+A conclusão da trilha inicial é um requisito obrigatório para avançar para a trilha final. Caso a trilha inicial não seja concluída dentro do prazo estabelecido, o candidato estará impossibilitado de prosseguir para trilha final.
 
 ### Instruções de Entrega: 📬
 Após finalizar o projeto, Após finalizar o projeto, hospede-o no Figma e preencha o [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):  
